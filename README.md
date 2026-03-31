@@ -25,6 +25,3 @@ The template includes:
 
 ### Tools Used
 - Figma
-
-### Output
-![Email Template](email-template.png)
